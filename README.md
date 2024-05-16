@@ -8,7 +8,7 @@ Ready Player Me - Avatars Demo is a tech demo, demonstrating the capabilities of
 
 ## Prerequisites
 - Unity 2022.3 or later
-- Final IK
+- [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290)
 
 ## Getting Started
 1. Clone the repository.
