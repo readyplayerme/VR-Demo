@@ -217,10 +217,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: 662a6d19dea687386fd93d76
       objectReference: {fileID: 0}
-    - target: {fileID: 301224488229010767, guid: 3dea2c63f54a01e409e74a938f595695, type: 3}
-      propertyPath: avatar
-      value: 
-      objectReference: {fileID: 7187028244055041932, guid: e3da90c65d77184409a75183c5856b41, type: 3}
     - target: {fileID: 588532419564299355, guid: 3dea2c63f54a01e409e74a938f595695, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -317,14 +313,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1647469325029367736, guid: 3dea2c63f54a01e409e74a938f595695, type: 3}
-      propertyPath: m_Name
-      value: 662a6eb5dea687386fd95201
-      objectReference: {fileID: 0}
-    - target: {fileID: 1997288036702217556, guid: 3dea2c63f54a01e409e74a938f595695, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 41334f2b4f0e41341ad713ae23f61c36, type: 3}
     - target: {fileID: 2079645851329103722, guid: 3dea2c63f54a01e409e74a938f595695, type: 3}
       propertyPath: m_Name
       value: 66265a785181f3ac31691d35
