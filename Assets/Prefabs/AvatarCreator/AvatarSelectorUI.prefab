@@ -15720,7 +15720,7 @@ PrefabInstance:
     - target: {fileID: 7341245082725836023, guid: 0e8681fc786ee6848956c37bdf180646, type: 3}
       propertyPath: avatar
       value: 
-      objectReference: {fileID: 2256342981272976509, guid: 5094233df1f960c40a9a8d857e9f0983, type: 3}
+      objectReference: {fileID: 3291232608937916951, guid: 8be1bc13ad4efe543bb326304150246d, type: 3}
     - target: {fileID: 7341245082725836023, guid: 0e8681fc786ee6848956c37bdf180646, type: 3}
       propertyPath: OnAvatarSelected.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -15747,12 +15747,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580343612045739520, guid: 0e8681fc786ee6848956c37bdf180646, type: 3}
       propertyPath: m_Name
-      value: 6614fb4682179d0f63c6580c
+      value: 66587560d9e6c10e37ffab64
       objectReference: {fileID: 0}
     - target: {fileID: 8825005168135830764, guid: 0e8681fc786ee6848956c37bdf180646, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3f99bee526144eb41abfad8d93a2377e, type: 3}
+      objectReference: {fileID: 21300000, guid: 13c2a8804d94b7a4286b111767dd8fcb, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
